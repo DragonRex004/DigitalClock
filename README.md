@@ -21,3 +21,5 @@ Learned Skills:
 ---
 
 ### License
+
+[MIT License](LICENSE)
